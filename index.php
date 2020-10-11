@@ -98,6 +98,7 @@
 
      </form>
 
+<<<<<<< HEAD
    <!--  
   <form id="form1"  name="form1" method="post" action="index.php">
 
@@ -119,4 +120,6 @@
   </form>
     -->
 
+=======
+>>>>>>> 489e94bd770d35694d9943edce06ee0ceaac0361
 </div>
