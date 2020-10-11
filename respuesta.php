@@ -6,17 +6,18 @@
   <p class="titulo">
     <?php  
       $output = `swipl -s ejemplo.pl -g "test." -t halt.`;
-      echo($output);
+      /*echo($output);*/
     ?>
+    Sistema Experto de Crédito
   </p>
 
 
   <p class="Subtitulo">
     <?php
       $output1= `swipl -s ejemplo.pl -g "test1." -t halt.`; 
-      echo($output1);
-  
+      /*echo($output1);*/
     ?>
+    Para la evaluación de prestación de dinero de la entidad Caja Trujillo
   </p>
 
 </div>

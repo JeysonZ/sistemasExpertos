@@ -1,5 +1,5 @@
 test :- write( 'Sitema Experto de Crédito' ).
-test1 :- write( 'para la evaluación de prestación de dinero de la entidad Caja Trujillo' ).
+test1 :- write( 'para la evaluaci~o~n de prestacion de dinero de la entidad Caja Trujillo' ).
 
 
 test2 :- write( 'Bueno' ).
