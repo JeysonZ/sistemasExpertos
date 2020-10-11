@@ -97,25 +97,4 @@
 
      </form>
 
-   <!--  
-  <form id="form1"  name="form1" method="post" action="index.php">
-
-    <p class="">CLIENTE</p>
-
-    <p>
-      <select name="TIPO" >
-            <option selected value="0"> Elige un usuario </option>
-            <option value="2">Moroso </option>
-            <option value="3">Limpio </option>
-      
-      </select>
-    </p> 
-
-    <p>
-        <input type="submit" name="envia"id="envia" value="envia" />
-    </p>
-
-  </form>
-    -->
-
 </div>
