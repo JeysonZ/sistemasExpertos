@@ -18,7 +18,7 @@
       $output1= `swipl -s ejemplo.pl -g "test1." -t halt.`; 
       /*echo($output1);*/
     ?>
-    Para la evaluación de prestación de dinero de la entidad Caja Trujillo
+    Para la evaluación de prestación de dinero de la entidad financiera Caja Trujillo
   </p>
 
 </div>
