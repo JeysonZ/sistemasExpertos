@@ -1,0 +1,193 @@
+.cuerpo{
+    height: auto;
+    width: 100%;
+    background: green;
+    position: absolute;
+    top: 100px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: url(CajaTrujillo.jpg)no-repeat center top; background-size: cover; height: 90vh;
+    
+}
+
+.cuerpoRespuesta{
+    height: auto;
+    width: 100%;
+    background: green;
+    position: absolute;
+    top: 100px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: url(CajaTrujillo2.jpg)no-repeat center top; background-size: cover; height: 90vh;
+    
+}
+
+.cuadro{
+    width: 60%;
+    background: white;
+    margin-left: 20%;
+    margin-top: 10%;
+    height: auto;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+
+.cuadroRespuesta{
+    width: 40%;
+    background: white;
+    margin-left: 30%;
+    margin-top: 10%;
+    height: auto;
+    padding: 2%;
+    border-radius: 15px;
+}
+
+.texto{
+    
+    width: 40%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+
+.textoRespuesta{
+    
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 17%;
+    font-size: 20px;
+}
+
+.textoPrestamo{
+    
+    width: 70%;
+    margin-top: 3%;
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+.CajasNumeros,.CajasTexto{
+    width: 130px;
+    margin-left: 0;
+    position: absolute;
+    margin-top: -36px;
+    margin-left: 30%;
+}
+
+.CajasTextoRespuesta{
+    width: 130px;
+    position: absolute;
+    margin-top: -39px;
+    margin-left: 18%;
+}
+
+.textoA{
+    
+   width: 40%;
+   margin-top: 3%;
+   margin-left: 5%;
+   
+}
+
+
+.CajaRecibos,.CajaPlazos{
+    width: 100px;
+    margin-left: 0;
+    position: absolute;
+    margin-top: -36px;
+    margin-left: 30%;
+}
+
+
+
+.Boton {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: red;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-left: 0;
+}
+
+.Boton:hover {
+    background: brown;
+
+}
+
+.RangoBoton{
+    background: darkblue;
+}
+
+.BotonRespuesta {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: #0f0f0f;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    margin-right: 10%;
+}
+
+
+.BotonRespuesta:hover {
+    background: gray;
+
+}
+
+
+.TituloIntegrantes{
+    width: 130px;
+    margin-left: 0;
+    position: absolute;
+    font-size: 25px;
+    margin-left: 46%;
+}
+
+.Nombre1{
+    margin-top: 80px;
+    width: 200px;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 44%;
+}
+
+.Nombre2{
+    margin-top: 110px;
+    width: 200px;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 44%;
+}
+
+.Nombre3{
+    margin-top: 140px;
+    width: 220px;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 44%;
+}
+
+
+
+.logo{
+    width: 140px;
+    height: 120px;
+    position: absolute;
+    margin-left: 46%;
+    margin-top: -200px;
+}
